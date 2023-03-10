@@ -1,6 +1,7 @@
 # Qip - Small Micro-Blogging Server (Experimental)
 [![test](https://github.com/approvers/qip/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/approvers/qip/actions/workflows/test.yml)
 [![golang-ci](https://github.com/approvers/qip/actions/workflows/golangci.yml/badge.svg)](https://github.com/approvers/qip/actions/workflows/golangci.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaminne%2Fqip.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaminne%2Fqip?ref=badge_shield)
 ---
 
 Warning ⚠:このレポジトリはpre-alpha版です.
@@ -39,6 +40,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaminne%2Fqip.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaminne%2Fqip?ref=badge_large)
 
 ## その他
 - このプロジェクトは[限界開発鯖](https://github.com/approvers)が主導するものではありません。
